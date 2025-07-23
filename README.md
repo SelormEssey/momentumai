@@ -36,18 +36,7 @@ Web scraping, NLP, and machine learning
 
 Optional integrations with GPT-based models for summarization and clustering
 
-Repository Structure
-sql
-Copy
-Edit
-momentum-ai/
-├── data_pipeline/       Data collection and parsing from external sources
-├── scoring/             Signal processing and momentum scoring logic
-├── frontend/            Web dashboard for visualization and alerts
-├── api/                 REST or GraphQL backend
-├── notebooks/           Exploratory analysis and model testing
-├── docs/                Architecture, system design, and planning notes
-└── README.md
+
 Current Focus
 The current focus is on building a minimal viable version that:
 
